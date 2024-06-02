@@ -129,6 +129,15 @@ const musicData = [
     musicPath: "Punjabi 14 - So High.mp3",
   },
   {
+    backgroundImage: "jubin nautiyal.jpeg",
+    posterUrl: "jubin nautiyal.jpeg",
+    title: "Jubin Nautiyal",
+    album: "Chaudhry",
+    year: 2022,
+    artist: "Rashid",
+    musicPath: "videoplayback.mp3",
+  },
+  {
     backgroundImage: "Parindey.jpeg",
     posterUrl: "Parindey.jpeg",
     title: "Parindey",
@@ -174,13 +183,13 @@ const musicData = [
     musicPath: "Punjabi 19- Bulleya.mp3",
   },
   {
-    backgroundImage: "jubin nautiyal.jpeg",
-    posterUrl: "jubin nautiyal.jpeg",
-    title: "Jubin Nautiyal",
+    backgroundImage: "jubin nautiyal1.jpeg",
+    posterUrl: "jubin nautiyal1.jpeg",
+    title: "Jubin Nautiyal Best",
     album: "Chaudhry",
     year: 2022,
     artist: "Rashid",
-    musicPath: "videoplayback.mp3",
+    musicPath: "videoplayback1.mp3",
   },
   // ... other music data
 ];
