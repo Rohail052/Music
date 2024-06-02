@@ -173,6 +173,15 @@ const musicData = [
     artist: "Rashid",
     musicPath: "Punjabi 19- Bulleya.mp3",
   },
+  {
+    backgroundImage: "jubin nautiyal.jpeg",
+    posterUrl: "jubin nautiyal.jpeg",
+    title: "Jubin Nautiyal",
+    album: "Chaudhry",
+    year: 2022,
+    artist: "Rashid",
+    musicPath: "videoplayback.mp3",
+  },
   // ... other music data
 ];
 
