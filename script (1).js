@@ -1,4 +1,5 @@
 'use strict';
+
 const musicData = [
   {
     backgroundImage: "Izhaar.jpeg",
@@ -199,6 +200,28 @@ const musicData = [
     artist: "Rashid",
     musicPath: "Ve Kamleya.mp3",
   },
+  {
+    backgroundImage: "Channa Mereya .jpeg",
+    posterUrl: "Channa Mereya .jpeg",
+    title: "Channa Mereya",
+    album: "Chaudhry",
+    year: 2024,
+    artist: "Rashid",
+    musicPath: "Channa Mereya .mp3",
+  },
+
+  {
+    backgroundImage: "Tere Mast Mast Do Nain.jpeg",
+    posterUrl: "Tere Mast Mast Do Nain.jpeg",
+    title: "Tere Mast Mast Do Nain ",
+    album: "Chaudhry",
+    year: 2024,
+    artist: "Rashid",
+    musicPath: "TereMast.mp3",
+  },
+
+
+
   // ... other music data
 ];
 
