@@ -1,5 +1,4 @@
 'use strict';
-
 const musicData = [
   {
     backgroundImage: "Izhaar.jpeg",
