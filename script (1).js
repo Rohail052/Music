@@ -191,6 +191,15 @@ const musicData = [
     artist: "Rashid",
     musicPath: "videoplayback1.mp3",
   },
+  {
+    backgroundImage: "Ve Kamleya.jpeg",
+    posterUrl: "Ve Kamleya.jpeg",
+    title: "Ve Kamleya",
+    album: "Chaudhry",
+    year: 2022,
+    artist: "Rashid",
+    musicPath: "Ve Kamleya.mp3",
+  },
   // ... other music data
 ];
 
