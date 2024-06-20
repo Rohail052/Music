@@ -219,6 +219,24 @@ const musicData = [
     artist: "Rashid",
     musicPath: "TereMast.mp3",
   },
+  {
+    backgroundImage: "Khuda Bhi.jpg",
+    posterUrl: "Khuda Bhi.jpg",
+    title: "Khuda Bhi",
+    album: "Chaudhry",
+    year: 2024,
+    artist: "Rashid",
+    musicPath: "Khuda Bhi.mp3",
+  },
+  {
+    backgroundImage: "Koshish.jpeg",
+    posterUrl: "Koshish.jpeg",
+    title: "Koshish",
+    album: "Chaudhry",
+    year: 2024,
+    artist: "Rashid",
+    musicPath: "Koshish.mp3",
+  },
 
 
 
