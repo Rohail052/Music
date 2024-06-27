@@ -65,6 +65,15 @@ const musicData = [
     artist: "Rashid",
     musicPath: "Punjabi 7  - Pehla Valentine.mp3",
   },
+   {
+    backgroundImage: "Everybody Hurts.jpeg",
+    posterUrl: "Everybody Hurts.jpeg",
+    title: "Love Sick",
+    album: "Chaudhry",
+    year: 2024,
+    artist: "Rashid",
+    musicPath: "Punjabi 1 3 - Love Sick.mp3",
+  },
   {
     backgroundImage: "Koi Si.jpeg",
     posterUrl: "Koi Si.jpeg",
@@ -110,15 +119,7 @@ const musicData = [
     artist: "Rashid",
     musicPath: "Punjabi 12  - Everybody Hurts.mp3",
   },
-  {
-    backgroundImage: "Everybody Hurts.jpeg",
-    posterUrl: "Everybody Hurts.jpeg",
-    title: "Love Sick",
-    album: "Chaudhry",
-    year: 2024,
-    artist: "Rashid",
-    musicPath: "Punjabi 1 3 - Love Sick.mp3",
-  },
+ 
   {
     backgroundImage: "So High.jpeg",
     posterUrl: "So High.jpeg",
